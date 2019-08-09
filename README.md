@@ -2,11 +2,11 @@
 
 Coleção de 1001 exercícios resolvidos em JavaScript.
 
-
+[![Build Status](https://travis-ci.org/felipefontoura/js-ninja-1001.svg?branch=master)](https://travis-ci.org/felipefontoura/js-ninja-1001)
 
 ###### Exercícios básicos
 
-1. [Calculadora](src/basic/calculator.js) [spec](spec/basic/calculatorSpec.js)
+1. [Calculadora](src/basic/calculator.js) | [spec](spec/basic/calculatorSpec.js)
 
 ## Como executar
 
